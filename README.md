@@ -53,7 +53,7 @@
 <h1 id="autor">Autor</h1>
 
 <p>
-  Made with ❤️ by one young versions of <b>Victor Meireles</b> 👋🏽 Get in touch!
+  Made with ❤️ by a younger version of <b>Victor Meireles</b> 👋🏽 Get in touch!
   <br/>
   Feito com ❤️ por uma versão mais jovem do <b>Victor Meireles</b> 👋🏽 Entre em contato!
 </p>
