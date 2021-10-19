@@ -1,8 +1,10 @@
 <h2 align="center">
 	🚧  Projeto descontinuado  🚧
-  <br/>
-  Este foi um dos meus primeiros projetos. O primeiro com Laravel e também o primeiro com a arquitetura MVC. O código está bem bagunçado, admito. Aprendi muito desde então e posso fazer bem melhor que isso. Não migrei esta aplicação porque sai da empresa.
 </h2>
+
+<p>
+  Este foi um dos meus primeiros projetos. O primeiro com Laravel e também o primeiro com a arquitetura MVC. O código está bem bagunçado, admito. Aprendi muito desde então e posso fazer bem melhor que isso. Não migrei esta aplicação porque sai da empresa.
+</p>
 
 <h1 align="center" style="border-bottom: none">
   Chebabi Advogados - Site e intranet
